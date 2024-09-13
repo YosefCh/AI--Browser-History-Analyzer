@@ -1,3 +1,4 @@
+# Import Api key to create an Ai class
 # It is generally better practice to have the key stored as an environment variable and read it from there. 
 # However, for the purpose of this script, We will store the key in a variable.
 
